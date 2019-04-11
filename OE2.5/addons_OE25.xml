@@ -1656,6 +1656,15 @@
 </line>
 <!--  Skins  -->
 <line>
+<text>Default FHD CnMod fur DreamOS ( OE 2.5 )</text>
+<comment>20190411-r1.0</comment>
+<file>Default-FHD-CnMod_20190411-r1.0.tar.gz</file>
+<directory>Skins</directory>
+<category>Skins</category>
+<size>50000</size>
+<filedate>11/04/2019</filedate>
+</line>
+<line>
 <text>MetrixStyleHD fur DreamOS ( OE 2.5 )</text>
 <comment>11.2-r0</comment>
 <file>enigma2-skin-metrixstylehd_11.2-r0_all.deb</file>
