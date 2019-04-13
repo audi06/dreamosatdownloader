@@ -1,3 +1,3 @@
-## DreamOSat Downloader
+# DreamOSat Downloader
 
-# Support: https://www.dreamosat-forum.com
+### Support: https://www.dreamosat-forum.com
