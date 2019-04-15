@@ -2298,8 +2298,8 @@
 <text>enigma2-plugin-skins-bardo-hd_OpenATV_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-skins-bardo-hd_OpenATV_all.ipk</file>
-<directory>DreamOSat</directory>
-<category>DreamOSat</category>
+<directory>Skins</directory>
+<category>Skins</category>
 <size>14.4</size>
 <filedate>00/00/2020</filedate>
 </line>
@@ -2307,8 +2307,8 @@
 <text>enigma2-plugin-skins-nblack51-openhdf-mod_1.5.6_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-skins-nblack51-openhdf-mod_1.5.6_all.ipk</file>
-<directory>DreamOSat</directory>
-<category>DreamOSat</category>
+<directory>Skins</directory>
+<category>Skins</category>
 <size>14.4</size>
 <filedate>00/00/2020</filedate>
 </line>
@@ -2316,8 +2316,8 @@
 <text>enigma2-skin-hdglass16_11.56_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-skin-hdglass16_11.56_all.ipk</file>
-<directory>DreamOSat</directory>
-<category>DreamOSat</category>
+<directory>Skins</directory>
+<category>Skins</category>
 <size>14.4</size>
 <filedate>00/00/2020</filedate>
 </line>
@@ -2325,8 +2325,8 @@
 <text>Skin-XTAforME-HD-V1.0-MOD-By-RAED.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>Skin-XTAforME-HD-V1.0-MOD-By-RAED.ipk</file>
-<directory>DreamOSat</directory>
-<category>DreamOSat</category>
+<directory>Skins</directory>
+<category>Skins</category>
 <size>14.4</size>
 <filedate>00/00/2020</filedate>
 </line>
