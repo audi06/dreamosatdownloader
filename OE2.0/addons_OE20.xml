@@ -1428,12 +1428,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-ipktools-2.0-r6.ipk</file>
-<directory>Plugin-All</directory>
-<category>Plugin-All</category>
-<size>14.4</size>
-<filedate>00/00/2020</filedate>
-</line></text>
+<text>enigma2-plugin-extensions-ipktools-2.0-r6.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-ipktools-2.0-r6.ipk</file>
 <directory>Plugin-All</directory>
