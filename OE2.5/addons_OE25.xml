@@ -1,40 +1,40 @@
 <Addons>
 <!--  DreamOSat  -->
 <line>
-<text>DreamOSat Downloader</text>
-<comment>20180927-r6.0</comment>
-<file>enigma2-plugin-extensions-dreamosat-downloader_20180927-r6.0_all.deb</file>
+<text>DreamOSat Downloader NEW version 15.04.2019</text>
+<comment>20190415-r6.2</comment>
+<file>enigma2-plugin-extensions-dreamosat-downloader_20190415-r6.2_all.deb</file>
 <directory>DreamOSat</directory>
 <category>DreamOSat</category>
 <size>14.4</size>
-<filedate>10/10/2018</filedate>
+<filedate>15/04/2019</filedate>
 </line>
 <line>
-<text>DreamOSat camManager NEW version 27.09.2018</text>
-<comment>20180927-r8.0</comment>
-<file>enigma2-plugin-extensions-dreamosat-cammanager_20180927-r8.0_all.deb</file>
+<text>DreamOSat camManager NEW version 21.04.2019</text>
+<comment>20190421-r8.1</comment>
+<file>enigma2-plugin-extensions-dreamosat-cammanager_20190421-r8.1_all.deb</file>
 <directory>DreamOSat</directory>
 <category>DreamOSat</category>
 <size>3077</size>
-<filedate>27/09/2018</filedate>
+<filedate>21/04/2019</filedate>
 </line>
 <line>
-<text>DreamOSat Script NEW version 21.09.2018</text>
-<comment>20180921-r8.1</comment>
-<file>enigma2-plugin-extensions-dreamosat-script_20180921-r8.1_all.deb</file>
+<text>DreamOSat Script NEW version 21.04.2019</text>
+<comment>20190408-r9.6</comment>
+<file>enigma2-plugin-extensions-dreamosat-script_20190408-r9.6_all.deb</file>
 <directory>DreamOSat</directory>
 <category>DreamOSat</category>
 <size>14.4</size>
-<filedate>21/09/2018</filedate>
+<filedate>21/04/2019</filedate>
 </line>
 <line>
-<text>Picons Transparent 42.0E 12.11.2018</text>
+<text>Picons Transparent 42.0E 06.02.2019</text>
 <comment>220 x 132</comment>
-<file>enigma2-picon-transparent-42.0e-220x132_20181112-r1_all.deb</file>
+<file>enigma2-picon-transparent-42.0e-220x132_06.02.2019_all.deb</file>
 <directory>DreamOSat</directory>
 <category>DreamOSat</category>
 <size>5000</size>
-<filedate>12/11/2018</filedate>
+<filedate>06/02/2019</filedate>
 </line>
 <!--  Softcam-ALL  -->
 <line>

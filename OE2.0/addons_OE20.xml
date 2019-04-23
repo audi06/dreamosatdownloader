@@ -1,17 +1,44 @@
 <Addons>
 <!--  DreamOSat  -->
 <line>
-<text>enigma2-plugin-extensions-dreamosat-script_20190408-r9.6_all.ipk</text>
-<comment>OE_2.0_images</comment>
+<text>DreamOSat Downloader NEW version 15.04.2019</text>
+<comment>20190415-r6.2</comment>
+<file>enigma2-plugin-extensions-dreamosat-downloader_20190415-r6.2_all.ipk</file>
+<directory>DreamOSat</directory>
+<category>DreamOSat</category>
+<size>14.4</size>
+<filedate>15/04/2019</filedate>
+</line>
+<line>
+<text>DreamOSat camManager NEW version 21.04.2019</text>
+<comment>20190421-r8.1</comment>
+<file>enigma2-plugin-extensions-dreamosat-cammanager_20190421-r8.1_all.ipk</file>
+<directory>DreamOSat</directory>
+<category>DreamOSat</category>
+<size>3077</size>
+<filedate>21/04/2019</filedate>
+</line>
+<line>
+<text>DreamOSat Script NEW version 21.04.2019</text>
+<comment>20190408-r9.6</comment>
 <file>enigma2-plugin-extensions-dreamosat-script_20190408-r9.6_all.ipk</file>
 <directory>DreamOSat</directory>
 <category>DreamOSat</category>
 <size>14.4</size>
-<filedate>00/00/2020</filedate>
+<filedate>21/04/2019</filedate>
+</line>
+<line>
+<text>Picons Transparent 42.0E 06.02.2019</text>
+<comment>220 x 132</comment>
+<file>enigma2-picon-transparent-42.0e-220x132_06.02.2019_all.ipk</file>
+<directory>DreamOSat</directory>
+<category>DreamOSat</category>
+<size>5000</size>
+<filedate>06/02/2019</filedate>
 </line>
 <!--  Softcam-ALL  -->
 <line>
-<text>enigma2-softcams-cccam-all-images_2.3.2-r2_arm-mips_all.ipk</text>
+<text>cccam-all-images_2.3.2-r2_arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-cccam-all-images_2.3.2-r2_arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -20,7 +47,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-cccam-all-images_2.3.2-r1_arm-mips_all.ipk</text>
+<text>cccam-all-images_2.3.2-r1_arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-cccam-all-images_2.3.2-r1_arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -29,7 +56,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.505-emu-r791-arm+mips_all.ipk</text>
+<text>oscam-all-images_11.505-emu-r791-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.505-emu-r791-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -38,7 +65,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.503-emu-r789-arm+mips_all.ipk</text>
+<text>oscam-all-images_11.503-emu-r789-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.503-emu-r789-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -47,7 +74,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.488-emu-r785-arm+mips_all.ipk</text>
+<text>oscam-all-images_11.488-emu-r785-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.488-emu-r785-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -56,7 +83,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.487-emu-r785-arm+mips_all.ipk</text>
+<text>oscam-all-images_11.487-emu-r785-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.487-emu-r785-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -65,7 +92,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.444-emu-r782-arm+mips_all.ipk</text>
+<text>oscam-all-images_11.444-emu-r782-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.444-emu-r782-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -74,7 +101,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.442-r780-arm+mips_all.ipk</text>
+<text>oscam-all-images_11.442-r780-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.442-r780-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -83,7 +110,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.439-r778-arm+mips_all.ipk</text>
+<text>oscam-all-images_11.439-r778-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.439-r778-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -92,7 +119,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.439-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.439-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.439-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -101,7 +128,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.438-r777-arm+mips_all.ipk</text>
+<text>oscam-all-images_11.438-r777-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.438-r777-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -110,7 +137,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.438-r776-arm+mips_all.ipk</text>
+<text>oscam-all-images_11.438-r776-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.438-r776-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -119,7 +146,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.438-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.438-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.438-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -128,7 +155,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.434-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.434-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.434-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -137,7 +164,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.433-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.433-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.433-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -146,7 +173,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.432-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.432-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.432-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -155,7 +182,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.431-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.431-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.431-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -164,7 +191,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.429-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.429-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.429-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -173,7 +200,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.426-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.426-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.426-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -182,7 +209,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.425-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.425-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.425-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -191,7 +218,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.424-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.424-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.424-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -200,7 +227,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.423-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.423-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.423-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -209,7 +236,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.420-r0+arm-mips_all.ipk</text>
+<text>oscam-all-images_11.420-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.420-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -218,7 +245,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-all-images_11.415-r0_arm-mips_all.ipk</text>
+<text>oscam-all-images_11.415-r0_arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.415-r0_arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -227,7 +254,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-modern-all-images_1532-r0+arm-mips_all.ipk</text>
+<text>oscam-modern-all-images_1532-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-modern-all-images_1532-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -236,7 +263,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-modern-all-images_1531-r0+arm-mips_all.ipk</text>
+<text>oscam-modern-all-images_1531-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-modern-all-images_1531-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -245,7 +272,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-oscam-modern-all-images_1528-r0_arm-mips_all.ipk</text>
+<text>oscam-modern-all-images_1528-r0_arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-modern-all-images_1528-r0_arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -254,7 +281,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-ncam-all-images_1.7-r4_arm-mips_all.ipk</text>
+<text>ncam-all-images_1.7-r4_arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-ncam-all-images_1.7-r4_arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -263,7 +290,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-gcam-all-images_2.0-emu-r0-arm+mips_all.ipk</text>
+<text>gcam-all-images_2.0-emu-r0-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-gcam-all-images_2.0-emu-r0-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -272,7 +299,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-gcam-all-images_1.8-r0+arm-mips_all.ipk</text>
+<text>gcam-all-images_1.8-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-gcam-all-images_1.8-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -281,7 +308,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-gcam-all-images_1.7-r0+arm-mips_all.ipk</text>
+<text>gcam-all-images_1.7-r0+arm-mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-gcam-all-images_1.7-r0+arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -290,7 +317,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V9.4-r0_all.ipk</text>
+<text>ncam-mips_V9.4-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V9.4-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -299,7 +326,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V9.3-r0_all.ipk</text>
+<text>ncam-mips_V9.3-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V9.3-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -308,7 +335,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V9.2-r0_all.ipk</text>
+<text>ncam-mips_V9.2-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V9.2-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -317,7 +344,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V9.1-r0_all.ipk</text>
+<text>ncam-mips_V9.1-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V9.1-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -326,7 +353,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V9.0-r1_all.ipk</text>
+<text>ncam-mips_V9.0-r1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V9.0-r1_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -335,7 +362,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V9.0-r0_all.ipk</text>
+<text>ncam-mips_V9.0-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V9.0-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -344,7 +371,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V8.9-r0_all.ipk</text>
+<text>ncam-mips_V8.9-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V8.9-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -353,7 +380,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V8.8-r0_all.ipk</text>
+<text>ncam-mips_V8.8-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V8.8-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -362,7 +389,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V8.7-r0_all.ipk</text>
+<text>ncam-mips_V8.7-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V8.7-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -371,7 +398,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V8.2-r0_all.ipk</text>
+<text>ncam-mips_V8.2-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V8.2-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -380,7 +407,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V7.7-r0_all.ipk</text>
+<text>ncam-mips_V7.7-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V7.7-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -389,7 +416,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V7.1-r0_all.ipk</text>
+<text>ncam-mips_V7.1-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V7.1-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -398,7 +425,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-softcams-ncam-mips_V6.9-r0_all.ipk</text>
+<text>ncam-mips_V6.9-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-softcams-ncam-mips_V6.9-r0_all.ipk</file>
 <directory>Softcam-All</directory>
@@ -408,7 +435,7 @@
 </line>
 <!--  Softcam-Mipsel  -->
 <line>
-<text>enigma2-softcams-dreamosat-btkcam_0.90_all.ipk</text>
+<text>dreamosat-btkcam_0.90_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-btkcam_0.90_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -417,7 +444,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-cccam_2.2.1_all.ipk</text>
+<text>dreamosat-cccam_2.2.1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-cccam_2.2.1_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -426,7 +453,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-cccam_2.3.0_all.ipk</text>
+<text>dreamosat-cccam_2.3.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-cccam_2.3.0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -435,7 +462,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-cccam_2.3.1_all.ipk</text>
+<text>dreamosat-cccam_2.3.1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-cccam_2.3.1_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -444,7 +471,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-cccam_2.3.2_all.ipk</text>
+<text>dreamosat-cccam_2.3.2_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-cccam_2.3.2_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -453,7 +480,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-doscam_23_all.ipk</text>
+<text>dreamosat-doscam_23_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-doscam_23_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -462,7 +489,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-doscam_25_all.ipk</text>
+<text>dreamosat-doscam_25_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-doscam_25_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -471,7 +498,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-fcamd_1.0-r0_all.ipk</text>
+<text>dreamosat-fcamd_1.0-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-fcamd_1.0-r0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -480,7 +507,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-gbox_806_all.ipk</text>
+<text>dreamosat-gbox_806_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-gbox_806_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -489,7 +516,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-gcam_1.6-r0_all.ipk</text>
+<text>dreamosat-gcam_1.6-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-gcam_1.6-r0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -498,7 +525,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-gcam_1.7-r0_all.ipk</text>
+<text>dreamosat-gcam_1.7-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-gcam_1.7-r0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -507,7 +534,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-mgcamd_1.38-r0_all.ipk</text>
+<text>dreamosat-mgcamd_1.38-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-mgcamd_1.38-r0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -516,7 +543,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-mgcamd_1.45-r0_all.ipk</text>
+<text>dreamosat-mgcamd_1.45-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-mgcamd_1.45-r0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -525,7 +552,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_1.5-r0_all.ipk</text>
+<text>dreamosat-ncam_1.5-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_1.5-r0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -534,7 +561,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_1.7-r2_all.ipk</text>
+<text>dreamosat-ncam_1.7-r2_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_1.7-r2_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -543,7 +570,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_1.9-r1_all.ipk</text>
+<text>dreamosat-ncam_1.9-r1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_1.9-r1_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -552,7 +579,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_4.1-r0_all.ipk</text>
+<text>dreamosat-ncam_4.1-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_4.1-r0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -561,7 +588,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_4.2-r0_all.ipk</text>
+<text>dreamosat-ncam_4.2-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_4.2-r0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -570,7 +597,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_4.4-r0_all.ipk</text>
+<text>dreamosat-ncam_4.4-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_4.4-r0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -579,7 +606,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_5.1-r0_all.ipk</text>
+<text>dreamosat-ncam_5.1-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_5.1-r0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -588,7 +615,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.384_all.ipk</text>
+<text>dreamosat-oscam_11.384_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.384_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -597,7 +624,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.390_all.ipk</text>
+<text>dreamosat-oscam_11.390_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.390_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -606,7 +633,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.392_all.ipk</text>
+<text>dreamosat-oscam_11.392_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.392_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -615,7 +642,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.398_all.ipk</text>
+<text>dreamosat-oscam_11.398_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.398_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -624,7 +651,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.399_all.ipk</text>
+<text>dreamosat-oscam_11.399_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.399_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -633,7 +660,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.400_all.ipk</text>
+<text>dreamosat-oscam_11.400_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.400_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -642,7 +669,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.400-r1_all.ipk</text>
+<text>dreamosat-oscam_11.400-r1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.400-r1_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -651,7 +678,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.401_all.ipk</text>
+<text>dreamosat-oscam_11.401_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.401_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -660,7 +687,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.420_all.ipk</text>
+<text>dreamosat-oscam_11.420_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.420_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -669,7 +696,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam-modern_1524_all.ipk</text>
+<text>dreamosat-oscam-modern_1524_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam-modern_1524_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -678,7 +705,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam-modern_1528_all.ipk</text>
+<text>dreamosat-oscam-modern_1528_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam-modern_1528_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -687,7 +714,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscamymod_18.56_all.ipk</text>
+<text>dreamosat-oscamymod_18.56_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscamymod_18.56_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -696,7 +723,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscamymod_18.59_all.ipk</text>
+<text>dreamosat-oscamymod_18.59_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscamymod_18.59_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -705,7 +732,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-scam_3.60_all.ipk</text>
+<text>dreamosat-scam_3.60_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-scam_3.60_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -714,7 +741,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-unicam_3.1.0_all.ipk</text>
+<text>dreamosat-unicam_3.1.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-unicam_3.1.0_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -723,7 +750,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-wicardd_1.19_all.ipk</text>
+<text>dreamosat-wicardd_1.19_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-wicardd_1.19_all.ipk</file>
 <directory>Softcam-Mipsel</directory>
@@ -733,7 +760,7 @@
 </line>
 <!--  Softcam-Armhf  -->
 <line>
-<text>enigma2-softcams-dreamosat-cccam_2.3.1_all.ipk</text>
+<text>dreamosat-cccam_2.3.1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-cccam_2.3.1_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -742,7 +769,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-cccam_2.3.2_all.ipk</text>
+<text>dreamosat-cccam_2.3.2_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-cccam_2.3.2_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -751,7 +778,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-gbox_811k_all.ipk</text>
+<text>dreamosat-gbox_811k_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-gbox_811k_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -760,7 +787,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-gbox.net_2.2A_all.ipk</text>
+<text>dreamosat-gbox.net_2.2A_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-gbox.net_2.2A_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -769,7 +796,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-gcam_1.6-r0_all.ipk</text>
+<text>dreamosat-gcam_1.6-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-gcam_1.6-r0_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -778,7 +805,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-gcam_1.7-r0_all.ipk</text>
+<text>dreamosat-gcam_1.7-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-gcam_1.7-r0_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -787,7 +814,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-mgcamd_1.35a_all.ipk</text>
+<text>dreamosat-mgcamd_1.35a_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-mgcamd_1.35a_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -796,7 +823,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_1.5-r0_all.ipk</text>
+<text>dreamosat-ncam_1.5-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_1.5-r0_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -805,7 +832,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_1.7-r2_all.ipk</text>
+<text>dreamosat-ncam_1.7-r2_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_1.7-r2_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -814,7 +841,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_1.9-r1_all.ipk</text>
+<text>dreamosat-ncam_1.9-r1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_1.9-r1_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -823,7 +850,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_4.1-r0_all.ipk</text>
+<text>dreamosat-ncam_4.1-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_4.1-r0_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -832,7 +859,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_4.2-r0_all.ipk</text>
+<text>dreamosat-ncam_4.2-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_4.2-r0_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -841,7 +868,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_4.4-r0_all.ipk</text>
+<text>dreamosat-ncam_4.4-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_4.4-r0_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -850,7 +877,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-ncam_5.1-r0_all.ipk</text>
+<text>dreamosat-ncam_5.1-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-ncam_5.1-r0_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -859,7 +886,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.398_all.ipk</text>
+<text>dreamosat-oscam_11.398_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.398_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -868,7 +895,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.399_all.ipk</text>
+<text>dreamosat-oscam_11.399_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.399_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -877,7 +904,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.400_all.ipk</text>
+<text>dreamosat-oscam_11.400_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.400_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -886,7 +913,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.400-r1_all.ipk</text>
+<text>dreamosat-oscam_11.400-r1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.400-r1_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -895,7 +922,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.401_all.ipk</text>
+<text>dreamosat-oscam_11.401_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.401_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -904,7 +931,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam_11.420_all.ipk</text>
+<text>dreamosat-oscam_11.420_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.420_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -913,7 +940,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam-modern_1524_all.ipk</text>
+<text>dreamosat-oscam-modern_1524_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam-modern_1524_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -922,7 +949,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscam-modern_1528_all.ipk</text>
+<text>dreamosat-oscam-modern_1528_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam-modern_1528_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -931,7 +958,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-oscamymod_18.59_all.ipk</text>
+<text>dreamosat-oscamymod_18.59_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscamymod_18.59_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -940,7 +967,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-softcams-dreamosat-wicardd_1.19_all.ipk</text>
+<text>dreamosat-wicardd_1.19_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-wicardd_1.19_all.ipk</file>
 <directory>Softcam-Armhf</directory>
@@ -1122,7 +1149,7 @@
 </line>
 <!--  Plugin-All  -->
 <line>
-<text>enigma2-plugin-extensions-albatros_6.5_all.ipk</text>
+<text>albatros_6.5_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-albatros_6.5_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1131,7 +1158,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-alternativesoftcammanager_1+git15+0924015-r0.0_all.ipk</text>
+<text>alternativesoftcammanager_1+git15+0924015-r0.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-alternativesoftcammanager_1+git15+0924015-r0.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1140,7 +1167,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-alternativesoftcammanager_3.0-r0.0_all.ipk</text>
+<text>alternativesoftcammanager_3.0-r0.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-alternativesoftcammanager_3.0-r0.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1149,7 +1176,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-arabicentertainment_6.6_all.ipk</text>
+<text>arabicentertainment_6.6_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-arabicentertainment_6.6_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1158,7 +1185,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-arbouquetaddremovebouquet-0.4-r0.ipk</text>
+<text>arbouquetaddremovebouquet-0.4-r0.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-arbouquetaddremovebouquet-0.4-r0.ipk</file>
 <directory>Plugin-All</directory>
@@ -1167,7 +1194,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-automatic-fullbackup_5.5_all.ipk</text>
+<text>automatic-fullbackup_5.5_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-automatic-fullbackup_5.5_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1176,7 +1203,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-autopin_4.2-r3_all.ipk</text>
+<text>autopin_4.2-r3_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-autopin_4.2-r3_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1185,7 +1212,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-boxpirates-extraurl-oe2.0_1.4_all.ipk</text>
+<text>boxpirates-extraurl-oe2.0_1.4_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-boxpirates-extraurl-oe2.0_1.4_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1194,7 +1221,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-boxpirates-keyupdater-oe2.0_1.0_all.ipk</text>
+<text>boxpirates-keyupdater-oe2.0_1.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-boxpirates-keyupdater-oe2.0_1.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1203,7 +1230,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-boxpirates-panel-incl-cr-feed_1.7_all.ipk</text>
+<text>boxpirates-panel-incl-cr-feed_1.7_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-boxpirates-panel-incl-cr-feed_1.7_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1212,7 +1239,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-buyukbangpanel_1.4.1_buyukbang.blogspot.com.ipk</text>
+<text>buyukbangpanel_1.4.1_buyukbang.blogspot.com.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-buyukbangpanel_1.4.1_buyukbang.blogspot.com.ipk</file>
 <directory>Plugin-All</directory>
@@ -1221,7 +1248,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-bwtvkeyupdater_0.3_all.ipk</text>
+<text>bwtvkeyupdater_0.3_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-bwtvkeyupdater_0.3_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1230,7 +1257,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-bzsat_2015215_all.ipk</text>
+<text>bzsat_2015215_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-bzsat_2015215_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1239,7 +1266,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-casacinema_1.0.1_all.ipk</text>
+<text>casacinema_1.0.1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-casacinema_1.0.1_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1248,7 +1275,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-cccaminfo_v3.0-Marwen_all.ipk</text>
+<text>cccaminfo_v3.0-Marwen_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-cccaminfo_v3.0-Marwen_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1257,7 +1284,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-ciplus_2.0-r0_all.ipk</text>
+<text>ciplus_2.0-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-ciplus_2.0-r0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1266,7 +1293,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-ciplushelper.ipk</text>
+<text>ciplushelper.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-ciplushelper.ipk</file>
 <directory>Plugin-All</directory>
@@ -1275,7 +1302,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-cooltvguide_Coolman_V7.6.0_all.ipk</text>
+<text>cooltvguide_Coolman_V7.6.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-cooltvguide_Coolman_V7.6.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1284,7 +1311,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-corvoboys-cbpanel_1.0.9_all.ipk</text>
+<text>corvoboys-cbpanel_1.0.9_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-corvoboys-cbpanel_1.0.9_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1293,7 +1320,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-crondmanager_20181209-r1.3_all.ipk</text>
+<text>crondmanager_20181209-r1.3_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-crondmanager_20181209-r1.3_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1302,7 +1329,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-devil_5.0_all.ipk</text>
+<text>devil_5.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-devil_5.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1311,7 +1338,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-dflash_12.6_all.ipk</text>
+<text>dflash_12.6_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-dflash_12.6_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1320,7 +1347,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-dnaupdater_4.0_all.ipk</text>
+<text>dnaupdater_4.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-dnaupdater_4.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1329,7 +1356,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-easyCCcam-0.2-r0.ipk</text>
+<text>easyCCcam-0.2-r0.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-easyCCcam-0.2-r0.ipk</file>
 <directory>Plugin-All</directory>
@@ -1338,7 +1365,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-enhancedmoviecenter_4.0git20160416_all.ipk</text>
+<text>enhancedmoviecenter_4.0git20160416_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-enhancedmoviecenter_4.0git20160416_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1347,7 +1374,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-epanel-5.7-r15.ipk</text>
+<text>epanel-5.7-r15.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-epanel-5.7-r15.ipk</file>
 <directory>Plugin-All</directory>
@@ -1356,7 +1383,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-epgdd-0.3-r9.ipk</text>
+<text>epgdd-0.3-r9.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-epgdd-0.3-r9.ipk</file>
 <directory>Plugin-All</directory>
@@ -1365,7 +1392,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-exodus_5.0_r0_all.ipk</text>
+<text>exodus_5.0_r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-exodus_5.0_r0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1374,7 +1401,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk</text>
+<text>freecccam-mod_1.7_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1383,7 +1410,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-glasssysutil_6.73_all.ipk</text>
+<text>glasssysutil_6.73_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-glasssysutil_6.73_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1392,7 +1419,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-hacksatkeydownloaderen_1.3_all.ipk</text>
+<text>hacksatkeydownloaderen_1.3_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-hacksatkeydownloaderen_1.3_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1401,7 +1428,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-hdmi-in_1.3_all.ipk</text>
+<text>hdmi-in_1.3_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-hdmi-in_1.3_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1410,7 +1437,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-highlive_1.1_all.ipk</text>
+<text>highlive_1.1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-highlive_1.1_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1419,7 +1446,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-imagedownloader_1.7_all.ipk</text>
+<text>imagedownloader_1.7_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-imagedownloader_1.7_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1428,7 +1455,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-ipktools-2.0-r6.ipk</text>
+<text>ipktools-2.0-r6.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-ipktools-2.0-r6.ipk</file>
 <directory>Plugin-All</directory>
@@ -1437,7 +1464,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-iptv-cccam-live_1.0.7_all.ipk</text>
+<text>iptv-cccam-live_1.0.7_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-iptv-cccam-live_1.0.7_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1446,7 +1473,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-iptvlive_1.0.6_all.ipk</text>
+<text>iptvlive_1.0.6_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-iptvlive_1.0.6_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1455,7 +1482,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-iptvplayer_146.00.03.00_all.ipk</text>
+<text>iptvplayer_146.00.03.00_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-iptvplayer_146.00.03.00_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1464,7 +1491,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-iptvworld_6.0_r0_all.ipk</text>
+<text>iptvworld_6.0_r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-iptvworld_6.0_r0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1473,7 +1500,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-lanetTv-0.1-r1.ipk</text>
+<text>lanetTv-0.1-r1.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-lanetTv-0.1-r1.ipk</file>
 <directory>Plugin-All</directory>
@@ -1482,7 +1509,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-linuxsat-panel_1.5_all.ipk</text>
+<text>linuxsat-panel_1.5_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-linuxsat-panel_1.5_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1491,7 +1518,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-linuxsat-panel_1.6_all.ipk</text>
+<text>linuxsat-panel_1.6_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-linuxsat-panel_1.6_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1500,7 +1527,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-livefootball_7.0_all.ipk</text>
+<text>livefootball_7.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-livefootball_7.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1509,7 +1536,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-luxsat-menu_10.96_all.ipk</text>
+<text>luxsat-menu_10.96_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-luxsat-menu_10.96_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1518,7 +1545,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-m2b-0.3-r0.ipk</text>
+<text>m2b-0.3-r0.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-m2b-0.3-r0.ipk</file>
 <directory>Plugin-All</directory>
@@ -1527,7 +1554,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-m2b_0.5-r0_all.ipk</text>
+<text>m2b_0.5-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-m2b_0.5-r0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1536,7 +1563,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-mediainfo_3.0.1_all.ipk</text>
+<text>mediainfo_3.0.1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-mediainfo_3.0.1_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1545,7 +1572,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-mediaplayer2_all.ipk</text>
+<text>mediaplayer2_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-mediaplayer2_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1554,7 +1581,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-mediaportal_5.3.1-mini_all.ipk</text>
+<text>mediaportal_5.3.1-mini_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-mediaportal_5.3.1-mini_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1563,7 +1590,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-mediaportal_8.1.3_all.ipk</text>
+<text>mediaportal_8.1.3_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-mediaportal_8.1.3_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1572,7 +1599,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-merlinskinthemes_1.8.2_all.ipk</text>
+<text>merlinskinthemes_1.8.2_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-merlinskinthemes_1.8.2_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1581,7 +1608,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-moviebrowser_3.6rc8_all.ipk</text>
+<text>moviebrowser_3.6rc8_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-moviebrowser_3.6rc8_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1590,7 +1617,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-mpgz_all.ipk</text>
+<text>mpgz_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-mpgz_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1599,7 +1626,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-multiquickbutton-vu_2.7.13-r5_all.ipk</text>
+<text>multiquickbutton-vu_2.7.13-r5_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-multiquickbutton-vu_2.7.13-r5_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1608,7 +1635,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-netspeedtest_1.0_all.ipk</text>
+<text>netspeedtest_1.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-netspeedtest_1.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1617,7 +1644,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-openepg_1.4-r7_all.ipk</text>
+<text>openepg_1.4-r7_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-openepg_1.4-r7_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1626,7 +1653,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-openmultiboot_1.0+git132-20170103_all.ipk</text>
+<text>openmultiboot_1.0+git132-20170103_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-openmultiboot_1.0+git132-20170103_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1635,7 +1662,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-oscamstatus_0.61-r3_all.ipk</text>
+<text>oscamstatus_0.61-r3_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-oscamstatus_0.61-r3_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1644,7 +1671,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-oscamstatusview_1.0rc1_all.ipk</text>
+<text>oscamstatusview_1.0rc1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-oscamstatusview_1.0rc1_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1653,7 +1680,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-panda-freeiptv_v.4.0-25022017_all.ipk</text>
+<text>panda-freeiptv_v.4.0-25022017_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-panda-freeiptv_v.4.0-25022017_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1662,7 +1689,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-PowerVuKeyUpdater-0.6.ipk</text>
+<text>PowerVuKeyUpdater-0.6.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-PowerVuKeyUpdater-0.6.ipk</file>
 <directory>Plugin-All</directory>
@@ -1671,7 +1698,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-qeifh-0.2-r7.ipk</text>
+<text>qeifh-0.2-r7.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-qeifh-0.2-r7.ipk</file>
 <directory>Plugin-All</directory>
@@ -1680,7 +1707,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-quickchannelinfo-0.2-r0.ipk</text>
+<text>quickchannelinfo-0.2-r0.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-quickchannelinfo-0.2-r0.ipk</file>
 <directory>Plugin-All</directory>
@@ -1689,7 +1716,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-quickecminfo-0.2-r7.ipk</text>
+<text>quickecminfo-0.2-r7.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-quickecminfo-0.2-r7.ipk</file>
 <directory>Plugin-All</directory>
@@ -1698,7 +1725,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-quickemurestart-0.1-r3.ipk</text>
+<text>quickemurestart-0.1-r3.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-quickemurestart-0.1-r3.ipk</file>
 <directory>Plugin-All</directory>
@@ -1707,7 +1734,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-remountnetshare-0.6-r3.ipk</text>
+<text>remountnetshare-0.6-r3.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-remountnetshare-0.6-r3.ipk</file>
 <directory>Plugin-All</directory>
@@ -1716,7 +1743,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-rpulite-1.1-r0.ipk</text>
+<text>rpulite-1.1-r0.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-rpulite-1.1-r0.ipk</file>
 <directory>Plugin-All</directory>
@@ -1725,7 +1752,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-satelitnet-0.4-r1.ipk</text>
+<text>satelitnet-0.4-r1.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-satelitnet-0.4-r1.ipk</file>
 <directory>Plugin-All</directory>
@@ -1734,7 +1761,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-satvenus-panel_6.2.3_all.ipk</text>
+<text>satvenus-panel_6.2.3_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-satvenus-panel_6.2.3_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1743,7 +1770,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-satvenus-panel_6.5.0_all.ipk</text>
+<text>satvenus-panel_6.5.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-satvenus-panel_6.5.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1752,7 +1779,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-screengrabber_2.5_all.ipk</text>
+<text>screengrabber_2.5_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-screengrabber_2.5_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1761,7 +1788,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-secondinfobar_2.7_all.ipk</text>
+<text>secondinfobar_2.7_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-secondinfobar_2.7_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1770,7 +1797,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-seyirTURK_4.56_all.ipk</text>
+<text>seyirTURK_4.56_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-seyirTURK_4.56_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1779,7 +1806,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-streamtvplayerfhd_2.2-20170507-r0_all.ipk</text>
+<text>streamtvplayerfhd_2.2-20170507-r0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-streamtvplayerfhd_2.2-20170507-r0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1788,7 +1815,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-subssupport_1.5.4_20151105_all.ipk</text>
+<text>subssupport_1.5.4_20151105_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-subssupport_1.5.4_20151105_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1797,7 +1824,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-subssupport_1.5.6_all.ipk</text>
+<text>subssupport_1.5.6_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-subssupport_1.5.6_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1806,7 +1833,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-subtitle-player-_v.3.29_all.ipk</text>
+<text>subtitle-player-_v.3.29_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-subtitle-player-_v.3.29_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1815,7 +1842,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-tectimetv_3.1_all.ipk</text>
+<text>tectimetv_3.1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-tectimetv_3.1_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1824,7 +1851,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-teledunetupdater_3.2_all.ipk</text>
+<text>teledunetupdater_3.2_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-teledunetupdater_3.2_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1833,7 +1860,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-tpulite-0.2-r2.ipk</text>
+<text>tpulite-0.2-r2.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-tpulite-0.2-r2.ipk</file>
 <directory>Plugin-All</directory>
@@ -1842,7 +1869,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-trrplugin_v2.0-r064_py27_all.ipk</text>
+<text>trrplugin_v2.0-r064_py27_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-trrplugin_v2.0-r064_py27_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1851,7 +1878,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-tspanel_7.5_all.ipk</text>
+<text>tspanel_7.5_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-tspanel_7.5_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1860,7 +1887,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-tspanel_7.5_fullhdmod.all.ipk</text>
+<text>tspanel_7.5_fullhdmod.all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-tspanel_7.5_fullhdmod.all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1869,7 +1896,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-tspanel_8.0_all.ipk</text>
+<text>tspanel_8.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-tspanel_8.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1878,7 +1905,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-tstube_1.2_all.ipk</text>
+<text>tstube_1.2_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-tstube_1.2_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1887,7 +1914,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-turkvod_10_all.ipk</text>
+<text>turkvod_10_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-turkvod_10_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1896,7 +1923,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-tvmovies_4.4_all.ipk</text>
+<text>tvmovies_4.4_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-tvmovies_4.4_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1905,7 +1932,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-update-channel-list_1.31_all.ipk</text>
+<text>update-channel-list_1.31_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-update-channel-list_1.31_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1914,7 +1941,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-vodwebcenter_720p_all.ipk</text>
+<text>vodwebcenter_720p_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-vodwebcenter_720p_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1923,7 +1950,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-vweather3_1.0r18_all.ipk</text>
+<text>vweather3_1.0r18_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-vweather3_1.0r18_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1932,7 +1959,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-webradiofs_14.45_all.ipk</text>
+<text>webradiofs_14.45_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-webradiofs_14.45_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1941,7 +1968,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-weerinfo_2.3_all.ipk</text>
+<text>weerinfo_2.3_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-weerinfo_2.3_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1950,7 +1977,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-wikipedia_2.2rc8_all.ipk</text>
+<text>wikipedia_2.2rc8_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-wikipedia_2.2rc8_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1959,7 +1986,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-yahoowether-0.3-r3.ipk</text>
+<text>yahoowether-0.3-r3.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-yahoowether-0.3-r3.ipk</file>
 <directory>Plugin-All</directory>
@@ -1968,7 +1995,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-youtube_h1+git347+8dddc5a-r0.0_all.ipk</text>
+<text>youtube_h1+git347+8dddc5a-r0.0_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-youtube_h1+git347+8dddc5a-r0.0_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1977,7 +2004,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-freecccam_1.2_all.ipk</text>
+<text>freecccam_1.2_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-freecccam_1.2_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1986,7 +2013,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-free-cccam_1.8_all.ipk</text>
+<text>free-cccam_1.8_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-free-cccam_1.8_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -1995,7 +2022,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-glasssysutil_7.22_all.ipk</text>
+<text>glasssysutil_7.22_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-glasssysutil_7.22_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -2004,7 +2031,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-systemplugins-ciplushelper_2.0-r0_hd51.ipk</text>
+<text>systemplugins-ciplushelper_2.0-r0_hd51.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-systemplugins-ciplushelper_2.0-r0_hd51.ipk</file>
 <directory>Plugin-All</directory>
@@ -2013,7 +2040,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-systemplugins-ciplushelper_3.0-r1_all.ipk</text>
+<text>systemplugins-ciplushelper_3.0-r1_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-systemplugins-ciplushelper_3.0-r1_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -2022,7 +2049,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-systemplugins-videoenhancement_all.ipk</text>
+<text>systemplugins-videoenhancement_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-systemplugins-videoenhancement_all.ipk</file>
 <directory>Plugin-All</directory>
@@ -2041,7 +2068,7 @@
 </line>
 <!--  Plugin-Mipsel  -->
 <line>
-<text>enigma2-plugin-extensions-airplayer_0.4.1_mips32el.ipk</text>
+<text>airplayer_0.4.1_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-airplayer_0.4.1_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2050,7 +2077,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-alternativesoftcammanager_3.0-r0.0_LITE_MIPS.ipk</text>
+<text>alternativesoftcammanager_3.0-r0.0_LITE_MIPS.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-alternativesoftcammanager_3.0-r0.0_LITE_MIPS.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2059,7 +2086,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-alternativesoftcammanager_3.0-r0.0_MIPS.ipk</text>
+<text>alternativesoftcammanager_3.0-r0.0_MIPS.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-alternativesoftcammanager_3.0-r0.0_MIPS.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2068,7 +2095,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-automatic-fullbackup_3.2_mips32el.ipk</text>
+<text>automatic-fullbackup_3.2_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-automatic-fullbackup_3.2_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2077,7 +2104,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-backupsuite_20+git100_mips32el.ipk</text>
+<text>backupsuite_20+git100_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-backupsuite_20+git100_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2086,7 +2113,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-cablescan_0.03_mips32el.ipk</text>
+<text>cablescan_0.03_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-cablescan_0.03_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2095,7 +2122,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-camd-manager_1.1_mips32el.ipk</text>
+<text>camd-manager_1.1_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-camd-manager_1.1_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2104,7 +2131,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-caminfo_0.8_mipsel.ipk</text>
+<text>caminfo_0.8_mipsel.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-caminfo_0.8_mipsel.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2113,7 +2140,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-cccaminfo_svn-3385-r0_mips32el.ipk</text>
+<text>cccaminfo_svn-3385-r0_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-cccaminfo_svn-3385-r0_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2122,7 +2149,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-ciplus_1.4-r0_mips32el.ipk</text>
+<text>ciplus_1.4-r0_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-ciplus_1.4-r0_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2131,7 +2158,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-dbackup_0.71_mipsel.ipk</text>
+<text>dbackup_0.71_mipsel.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-dbackup_0.71_mipsel.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2140,7 +2167,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-dflash_13.3_mips32el-nf.ipk</text>
+<text>dflash_13.3_mips32el-nf.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-dflash_13.3_mips32el-nf.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2149,7 +2176,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-dreamexplorer_7.4-r2_mips32el.ipk</text>
+<text>dreamexplorer_7.4-r2_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-dreamexplorer_7.4-r2_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2158,7 +2185,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-iviewHD_12_1.0.12_mipsel.ipk</text>
+<text>iviewHD_12_1.0.12_mipsel.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-iviewHD_12_1.0.12_mipsel.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2167,7 +2194,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-menusort_3.999+git4678+c8ebfba-r0_mips32el.ipk</text>
+<text>menusort_3.999+git4678+c8ebfba-r0_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-menusort_3.999+git4678+c8ebfba-r0_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2176,7 +2203,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-oscaminfo_0.6-r6_mipsel.ipk</text>
+<text>oscaminfo_0.6-r6_mipsel.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-oscaminfo_0.6-r6_mipsel.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2185,7 +2212,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-quickbutton_3.999+git4678+c8ebfba-r0_mips32el.ipk</text>
+<text>quickbutton_3.999+git4678+c8ebfba-r0_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-quickbutton_3.999+git4678+c8ebfba-r0_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2194,7 +2221,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-subtitlePlayer-py27_4.01_mipsel.ipk</text>
+<text>subtitlePlayer-py27_4.01_mipsel.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-subtitlePlayer-py27_4.01_mipsel.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2203,7 +2230,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-sysinfo_0.1-r0_mipsel.ipk</text>
+<text>sysinfo_0.1-r0_mipsel.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-sysinfo_0.1-r0_mipsel.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2212,7 +2239,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-tskd_1.5_mips32el.ipk</text>
+<text>tskd_1.5_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-tskd_1.5_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2221,7 +2248,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-vlcplayer_3.999+git4967+f209aae-r2_mips32el.ipk</text>
+<text>vlcplayer_3.999+git4967+f209aae-r2_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-vlcplayer_3.999+git4967+f209aae-r2_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2230,7 +2257,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-external-extra-feed_2.1_mipsel.ipk</text>
+<text>external-extra-feed_2.1_mipsel.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-external-extra-feed_2.1_mipsel.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2239,7 +2266,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-systemplugins-ciplushelper_2.0-r0_mips32el.ipk</text>
+<text>systemplugins-ciplushelper_2.0-r0_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-systemplugins-ciplushelper_2.0-r0_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2248,7 +2275,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-systemplugins-gbciplushelper_2.0-r0_mips32el.ipk</text>
+<text>systemplugins-gbciplushelper_2.0-r0_mips32el.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-systemplugins-gbciplushelper_2.0-r0_mips32el.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2257,7 +2284,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-systemplugins-positionersetup_2.8git20100129-r0_mipsel.ipk</text>
+<text>systemplugins-positionersetup_2.8git20100129-r0_mipsel.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-systemplugins-positionersetup_2.8git20100129-r0_mipsel.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2266,7 +2293,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-systemplugins-satfinder_2.8git20100129-r0_mipsel.ipk</text>
+<text>systemplugins-satfinder_2.8git20100129-r0_mipsel.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-systemplugins-satfinder_2.8git20100129-r0_mipsel.ipk</file>
 <directory>Plugin-Mipsel</directory>
@@ -2276,7 +2303,7 @@
 </line>
 <!--  Plugin-Armhf  -->
 <line>
-<text>enigma2-plugin-extensions-alternativesoftcammanager_3.0-r0.0_ARM.ipk</text>
+<text>alternativesoftcammanager_3.0-r0.0_ARM.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-alternativesoftcammanager_3.0-r0.0_ARM.ipk</file>
 <directory>Plugin-Armhf</directory>
@@ -2285,7 +2312,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-extensions-alternativesoftcammanager_3.0-r0.0_LITE_ARM.ipk</text>
+<text>alternativesoftcammanager_3.0-r0.0_LITE_ARM.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-extensions-alternativesoftcammanager_3.0-r0.0_LITE_ARM.ipk</file>
 <directory>Plugin-Armhf</directory>
@@ -2295,7 +2322,7 @@
 </line>
 <!--  Skins  -->
 <line>
-<text>enigma2-plugin-skins-bardo-hd_OpenATV_all.ipk</text>
+<text>skins-bardo-hd_OpenATV_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-skins-bardo-hd_OpenATV_all.ipk</file>
 <directory>Skins</directory>
@@ -2304,7 +2331,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-plugin-skins-nblack51-openhdf-mod_1.5.6_all.ipk</text>
+<text>skins-nblack51-openhdf-mod_1.5.6_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-plugin-skins-nblack51-openhdf-mod_1.5.6_all.ipk</file>
 <directory>Skins</directory>
@@ -2313,7 +2340,7 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
-<text>enigma2-skin-hdglass16_11.56_all.ipk</text>
+<text>skin-hdglass16_11.56_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-skin-hdglass16_11.56_all.ipk</file>
 <directory>Skins</directory>
@@ -2342,7 +2369,7 @@
 </line>
 <!--  Setings  -->
 <line>
-<text>enigma2-settings-chveneburi_20190325+Motor-105E-30W_all.ipk</text>
+<text>chveneburi_20190325+Motor-105E-30W_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-settings-chveneburi_20190325+Motor-105E-30W_all.ipk</file>
 <directory>Setings</directory>
