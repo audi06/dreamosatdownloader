@@ -56,6 +56,15 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
+<text>oscam-all-images_11.517-emu-r795-arm+mips_all.ipk</text>
+<comment>OE_2.0_images</comment>
+<file>enigma2-softcams-oscam-all-images_11.517-emu-r795-arm+mips_all.ipk</file>
+<directory>Softcam-All</directory>
+<category>Softcam-All</category>
+<size>14.4</size>
+<filedate>00/00/2020</filedate>
+</line>
+<line>
 <text>oscam-all-images_11.505-emu-r791-arm+mips_all.ipk</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-oscam-all-images_11.505-emu-r791-arm+mips_all.ipk</file>
