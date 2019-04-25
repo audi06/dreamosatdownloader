@@ -111,13 +111,22 @@
 <filedate>13/03/2018</filedate>
 </line>
 <line>
-<text>Softcam Camd CCcam 2.3.1</text>
+<text>Softcam Camd CCcam_2.3.0</text>
 <comment>OE2.5</comment>
-<file>enigma2-softcams-dreamosat-cccam_2.3.1_all.deb</file>
+<file>softcam-lteam-camd-CCcam_2.3.0_all.deb</file>
 <directory>Softcam-Mipsel</directory>
 <category>Softcam-Mipsel</category>
-<size>563.6</size>
-<filedate>02/03/2018</filedate>
+<size>374.1</size>
+<filedate>13/04/2016</filedate>
+</line>
+<line>
+<text>Softcam Camd OSCam_11.517 emu -r795</text>
+<comment>OE2.5</comment>
+<file>enigma2-softcams-dreamosat-oscam_11.517_all.deb</file>
+<directory>DreamOSat_Cam</directory>
+<category>Softcam-Mipsel</category>
+<size>14.4</size>
+<filedate>24/04/2019</filedate>
 </line>
 <line>
 <text>Softcam Camd OSCam_11.401</text>
@@ -147,28 +156,10 @@
 <filedate>14/04/2017</filedate>
 </line>
 <line>
-<text>Softcam Camd GCam_1.6-r0</text>
-<comment>OE2.5</comment>
-<file>enigma2-softcams-dreamosat-gcam_1.6-r0_all.deb</file>
-<directory>Softcam-Mipsel</directory>
-<category>Softcam-Mipsel</category>
-<size>850.1</size>
-<filedate>08/01/2018</filedate>
-</line>
-<line>
-<text>Softcam Camd GCam_1.1-r0</text>
-<comment>OE2.5</comment>
-<file>enigma2-softcams-dreamosat-gcam_1.1-r0_all.deb</file>
-<directory>Softcam-Mipsel</directory>
-<category>Softcam-Mipsel</category>
-<size>850.1</size>
-<filedate>04/08/2017</filedate>
-</line>
-<line>
 <text>Softcam Camd OSCam-modern_1535</text>
 <comment>OE2.5</comment>
 <file>enigma2-softcams-dreamosat-oscam-modern_1535-r0_all.deb</file>
-<directory>Softcam-Mipsel</directory>
+<directory>DreamOSat_Cam</directory>
 <category>Softcam-Mipsel</category>
 <size>561.1</size>
 <filedate>24/04/2019</filedate>
@@ -190,15 +181,6 @@
 <category>Softcam-Mipsel</category>
 <size>561.1</size>
 <filedate>12/12/2016</filedate>
-</line>
-<line>
-<text>Softcam Camd OSCam_11.083</text>
-<comment>OE2.5</comment>
-<file>softcam-lteam-camd-oscam_11.083_all.deb</file>
-<directory>Softcam-Mipsel</directory>
-<category>Softcam-Mipsel</category>
-<size>559.4</size>
-<filedate>16/04/2016</filedate>
 </line>
 <line>
 <text>Softcam Camd OSCam-ymod_v18.59</text>
@@ -226,6 +208,24 @@
 <category>Softcam-Mipsel</category>
 <size>621.7</size>
 <filedate>06/03/2018</filedate>
+</line>
+<line>
+<text>Softcam Camd GCam_1.6-r0</text>
+<comment>OE2.5</comment>
+<file>enigma2-softcams-dreamosat-gcam_1.6-r0_all.deb</file>
+<directory>Softcam-Mipsel</directory>
+<category>Softcam-Mipsel</category>
+<size>850.1</size>
+<filedate>08/01/2018</filedate>
+</line>
+<line>
+<text>Softcam Camd GCam_1.1-r0</text>
+<comment>OE2.5</comment>
+<file>enigma2-softcams-dreamosat-gcam_1.1-r0_all.deb</file>
+<directory>Softcam-Mipsel</directory>
+<category>Softcam-Mipsel</category>
+<size>850.1</size>
+<filedate>04/08/2017</filedate>
 </line>
 <line>
 <text>Softcam Camd BTKcam_0.90</text>
@@ -297,15 +297,6 @@
 <directory>Softcam-Mipsel</directory>
 <category>Softcam-Mipsel</category>
 <size>370.7</size>
-<filedate>13/04/2016</filedate>
-</line>
-<line>
-<text>Softcam Camd CCcam_2.3.0</text>
-<comment>OE2.5</comment>
-<file>softcam-lteam-camd-CCcam_2.3.0_all.deb</file>
-<directory>Softcam-Mipsel</directory>
-<category>Softcam-Mipsel</category>
-<size>374.1</size>
 <filedate>13/04/2016</filedate>
 </line>
 <line>
@@ -427,6 +418,15 @@
 <filedate>02/03/2018</filedate>
 </line>
 <line>
+<text>Softcam Camd OSCam_11.517 emu -r795</text>
+<comment>OE2.5</comment>
+<file>enigma2-softcams-dreamosat-oscam_11.517_all.deb</file>
+<directory>DreamOSat_Cam</directory>
+<category>Softcam-Armhf</category>
+<size>14.4</size>
+<filedate>24/04/2019</filedate>
+</line>
+<line>
 <text>Softcam Camd OSCam_11.401</text>
 <comment>OE2.5</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.401_armhf.deb</file>
@@ -454,28 +454,10 @@
 <filedate>26/01/2017</filedate>
 </line>
 <line>
-<text>Softcam Camd GCam_1.6-r0</text>
-<comment>OE2.5</comment>
-<file>enigma2-softcams-dreamosat-gcam_1.6-r0_armhf.deb</file>
-<directory>Softcam-Armhf</directory>
-<category>Softcam-Armhf</category>
-<size>850.1</size>
-<filedate>08/01/2018</filedate>
-</line>
-<line>
-<text>Softcam Camd GCam_1.1-r0</text>
-<comment>OE2.5</comment>
-<file>enigma2-softcams-dreamosat-gcam_1.1-r0_armhf.deb</file>
-<directory>Softcam-Armhf</directory>
-<category>Softcam-Armhf</category>
-<size>850.1</size>
-<filedate>04/08/2017</filedate>
-</line>
-<line>
-<text>Softcam Camd OSCam-modern_1535</text>
+<text>Softcam Camd OSCam-modern_1535 emu -r795</text>
 <comment>OE2.5</comment>
 <file>enigma2-softcams-dreamosat-oscam-modern_1535-r0_all.deb</file>
-<directory>Softcam-Armhf</directory>
+<directory>DreamOSat_Cam</directory>
 <category>Softcam-Armhf</category>
 <size>561.1</size>
 <filedate>24/04/2019</filedate>
@@ -497,6 +479,24 @@
 <category>Softcam-Armhf</category>
 <size>600.1</size>
 <filedate>07/01/2017</filedate>
+</line>
+<line>
+<text>Softcam Camd GCam_1.1-r0</text>
+<comment>OE2.5</comment>
+<file>enigma2-softcams-dreamosat-gcam_1.1-r0_armhf.deb</file>
+<directory>Softcam-Armhf</directory>
+<category>Softcam-Armhf</category>
+<size>850.1</size>
+<filedate>04/08/2017</filedate>
+</line>
+<line>
+<text>Softcam Camd GCam_1.6-r0</text>
+<comment>OE2.5</comment>
+<file>enigma2-softcams-dreamosat-gcam_1.6-r0_armhf.deb</file>
+<directory>Softcam-Armhf</directory>
+<category>Softcam-Armhf</category>
+<size>850.1</size>
+<filedate>08/01/2018</filedate>
 </line>
 <line>
 <text>Softcam Camd NCam_4.0-r0</text>
@@ -2459,14 +2459,5 @@
 <category>Python-lib_Armhf</category>
 <size>1,021.7</size>
 <filedate>01/01/2017</filedate>
-</line>
-<line>
-<text>DreamOSat camManager OScam EMU</text>
-<comment>11.517 emu -r795 arm-mips</comment>
-<file>enigma2-softcams-dreamosat-oscam_11.517_all.deb</file>
-<directory>DreamOSat_Cam</directory>
-<category>Softcam-All</category>
-<size>14.4</size>
-<filedate>24/04/2019</filedate>
 </line>
 </Addons>
