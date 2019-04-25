@@ -2460,4 +2460,13 @@
 <size>1,021.7</size>
 <filedate>01/01/2017</filedate>
 </line>
+<line>
+<text>DreamOSat camManager OScam EMU</text>
+<comment>11.517 emu -r795 arm-mips</comment>
+<file>enigma2-softcams-dreamosat-oscam_11.517_all.deb</file>
+<directory>DreamOSat_Cam</directory>
+<category>Softcam-All</category>
+<size>14.4</size>
+<filedate>24/04/2019</filedate>
+</line>
 </Addons>
