@@ -158,7 +158,7 @@
 <line>
 <text>Softcam Camd OSCam_11.517 emu -r795</text>
 <comment>OE_2.0_images</comment>
-<file>enigma2-softcams-dreamosat-oscam_11.517_all.ipk</file>
+<file>enigma2-softcams-dreamosat-oscam_11.517-r1_all.ipk</file>
 <directory>DreamOSat_Cam</directory>
 <category>Softcam-Mipsel</category>
 <size>14.4</size>
@@ -348,7 +348,7 @@
 <line>
 <text>Softcam Camd OSCam_11.517 emu -r795</text>
 <comment>OE_2.0_images</comment>
-<file>enigma2-softcams-dreamosat-oscam_11.517_all.ipk</file>
+<file>enigma2-softcams-dreamosat-oscam_11.517-r1_all.ipk</file>
 <directory>DreamOSat_Cam</directory>
 <category>Softcam-Armhf</category>
 <size>14.4</size>
