@@ -39,6 +39,15 @@
 <!--  Softcam-ALL  -->
 <line>
 <text>CCcam EMU For ALL Images</text>
+<comment>2.3.2-r3 - arm-mips</comment>
+<file>enigma2-softcams-cccam-all-images_2.3.2-emu-r3-arm+mips_all.ipk</file>
+<directory>Softcam-All</directory>
+<category>Softcam-All</category>
+<size>14.4</size>
+<filedate>07/05/2019</filedate>
+</line>
+<line>
+<text>CCcam EMU For ALL Images</text>
 <comment>2.3.2-r2 - arm-mips</comment>
 <file>enigma2-softcams-cccam-all-images_2.3.2-r2_arm-mips_all.ipk</file>
 <directory>Softcam-All</directory>
