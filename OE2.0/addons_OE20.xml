@@ -1,13 +1,13 @@
 <Addons>
 <!--  DreamOSat  -->
 <line>
-<text>DreamOSat Downloader NEW version 15.04.2019</text>
-<comment>20190415-r6.2</comment>
-<file>enigma2-plugin-extensions-dreamosat-downloader_20190415-r6.2_all.ipk</file>
+<text>DreamOSat Downloader NEW version 14.05.2019</text>
+<comment>20190514-r6.3</comment>
+<file>enigma2-plugin-extensions-dreamosat-downloader_20190514-r6.3_all.ipk</file>
 <directory>DreamOSat</directory>
 <category>DreamOSat</category>
 <size>14.4</size>
-<filedate>15/04/2019</filedate>
+<filedate>14/05/2019</filedate>
 </line>
 <line>
 <text>DreamOSat camManager NEW version 21.04.2019</text>
