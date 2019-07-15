@@ -1919,6 +1919,15 @@
 </line>
 <!--  Setings  -->
 <line>
+<text>Settings by.chveneburi 15/07/2019</text>
+<comment>105E-30W motor</comment>
+<file>enigma2-settings-chveneburi_20190715+Motor-105E-30W_all.ipk</file>
+<directory>Setings</directory>
+<category>Setings</category>
+<size>154.8</size>
+<filedate>15/07/2019</filedate>
+</line>
+<line>
 <text>Settings by.chveneburi 22/06/2019</text>
 <comment>105E-30W motor</comment>
 <file>enigma2-settings-chveneburi_20190622+Motor-105E-30W_all.ipk</file>
