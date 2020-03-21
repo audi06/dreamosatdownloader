@@ -1203,13 +1203,13 @@
 <filedate>01/01/2017</filedate>
 </line>
 <line>
-<text>TurkVod_9.0-r1</text>
+<text>TurkVod_10.2</text>
 <comment>OE2.5</comment>
-<file>enigma2-plugin-extensions-turkvod_9.0-r1_all.deb</file>
+<file>enigma2-plugin-extensions-turkvod_10.2_OE25.deb</file>
 <directory>Plugin-All</directory>
 <category>Plugin-All</category>
 <size>50000</size>
-<filedate>01/09/2018</filedate>
+<filedate>01/01/2020</filedate>
 </line>
 <line>
 <text>userscripts_5.2.0</text>
