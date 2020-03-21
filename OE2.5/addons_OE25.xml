@@ -66,12 +66,12 @@
 </line>
 <line>
 <text>OScam EMU For ALL Images</text>
-<comment>11.572 emu -r798 arm-mips</comment>
-<file>enigma2-softcams-oscam-all-images_11.572-emu-r798-arm+mips_all.deb</file>
+<comment>11.576 emu -r798 arm-mips</comment>
+<file>enigma2-softcams-oscam-all-images_11.576-emu-r798-arm+mips_all.deb</file>
 <directory>Softcam-All</directory>
 <category>Softcam-All</category>
 <size>14.4</size>
-<filedate>20/12/2019</filedate>
+<filedate>17/03/2020</filedate>
 </line>
 <line>
 <text>OScam EMU For ALL Images</text>
