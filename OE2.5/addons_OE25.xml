@@ -1793,6 +1793,15 @@
 </line>
 <!--  Setings  -->
 <line>
+<text>Settings by.chveneburi 28/03/2020</text>
+<comment>105E-30W motor</comment>
+<file>enigma2-settings-chveneburi_20200328+Motor-105E-30W_all.deb</file>
+<directory>Setings</directory>
+<category>Setings</category>
+<size>154.8</size>
+<filedate>28/03/2020</filedate>
+</line>
+<line>
 <text>Settings by.chveneburi 15/07/2019</text>
 <comment>105E-30W motor</comment>
 <file>enigma2-settings-chveneburi_20190715+Motor-105E-30W_all.deb</file>
