@@ -1,7 +1,16 @@
 <Addons>
 <!--  DreamOSat  -->
 <line>
-<text>DreamOSat Downloader NEW version 14.05.2019</text>
+<text>DreamOSat Downloader NEW version 08.08.2020</text>
+<comment>20200808-r6.8</comment>
+<file>enigma2-plugin-extensions-dreamosat-downloader_20200808-r6.6_all.ipk</file>
+<directory>DreamOSat</directory>
+<category>DreamOSat</category>
+<size>14.4</size>
+<filedate>08/08/2020</filedate>
+</line>
+<line>
+<text>DreamOSat Downloader</text>
 <comment>20190514-r6.3</comment>
 <file>enigma2-plugin-extensions-dreamosat-downloader_20190514-r6.3_all.ipk</file>
 <directory>DreamOSat</directory>
@@ -10,7 +19,16 @@
 <filedate>14/05/2019</filedate>
 </line>
 <line>
-<text>DreamOSat camManager NEW version 21.04.2019</text>
+<text>DreamOSat camManager NEW version 08.08.2020</text>
+<comment>20200808-r8.7</comment>
+<file>enigma2-plugin-extensions-dreamosat-cammanager_20200808-r8.7_all.ipk</file>
+<directory>DreamOSat</directory>
+<category>DreamOSat</category>
+<size>3077</size>
+<filedate>08/08/2020</filedate>
+</line>
+<line>
+<text>DreamOSat camManager</text>
 <comment>20190421-r8.1</comment>
 <file>enigma2-plugin-extensions-dreamosat-cammanager_20190421-r8.1_all.ipk</file>
 <directory>DreamOSat</directory>
@@ -19,7 +37,16 @@
 <filedate>21/04/2019</filedate>
 </line>
 <line>
-<text>DreamOSat Script NEW version 10.10.2019</text>
+<text>DreamOSat Script NEW version 08.08.2020</text>
+<comment>20200808-r10.03</comment>
+<file>enigma2-plugin-extensions-dreamosat-script_20200808-r10.03_all.ipk</file>
+<directory>DreamOSat</directory>
+<category>DreamOSat</category>
+<size>14.4</size>
+<filedate>08/08/2020</filedate>
+</line>
+<line>
+<text>DreamOSat Script</text>
 <comment>20191010-r10.03</comment>
 <file>enigma2-plugin-extensions-dreamosat-script_20191010-r10.03_all.ipk</file>
 <directory>DreamOSat</directory>
@@ -28,8 +55,17 @@
 <filedate>10/10/2019</filedate>
 </line>
 <line>
-<text>DreamOSat keyUpdater NEW version 30.11.2019</text>
-<comment>20191130-r2.5</comment>
+<text>DreamOSat keyUpdater NEW version 08.08.2020</text>
+<comment>20200808-r2.7</comment>
+<file>enigma2-plugin-extensions-dreamosat-keyupdater_20200808-r2.7_all.ipk</file>
+<directory>DreamOSat</directory>
+<category>DreamOSat</category>
+<size>14.4</size>
+<filedate>08/08/2020</filedate>
+</line>
+<line>
+<text>DreamOSat keyUpdater</text>
+<comment>20191130-r2.7</comment>
 <file>enigma2-plugin-extensions-DreamOSat-keyUpdater_20191130-r2.5_all.ipk</file>
 <directory>DreamOSat</directory>
 <category>DreamOSat</category>
@@ -72,6 +108,15 @@
 <category>Softcam-All</category>
 <size>14.4</size>
 <filedate>00/00/2020</filedate>
+</line>
+<line>
+<text>OScam EMU For ALL Images</text>
+<comment>11.581 emu -r798 arm-mips</comment>
+<file>enigma2-softcams-oscam-all-images_11.581-emu-r798-arm+mips_all.ipk</file>
+<directory>Softcam-All</directory>
+<category>Softcam-All</category>
+<size>14.4</size>
+<filedate>17/04/2020</filedate>
 </line>
 <line>
 <text>OScam EMU For ALL Images</text>
