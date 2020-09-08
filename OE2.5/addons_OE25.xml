@@ -566,7 +566,7 @@
 <comment>OE2.5</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.598-r0_all.deb</file>
 <directory>DreamOSat_Cam</directory>
-<category>Softcam-Mipsel</category>
+<category>Softcam-Armhf</category>
 <size>14.4</size>
 <filedate>08/09/2020</filedate>
 </line>
