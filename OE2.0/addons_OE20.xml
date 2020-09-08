@@ -291,6 +291,15 @@
 <filedate>00/00/2020</filedate>
 </line>
 <line>
+<text>Softcam Camd OSCam_11.598 emu -r798</text>
+<comment>OE_2.0_images</comment>
+<file>enigma2-softcams-dreamosat-oscam_11.598-r0_all.ipk</file>
+<directory>DreamOSat_Cam</directory>
+<category>Softcam-Mipsel</category>
+<size>14.4</size>
+<filedate>08/09/2020</filedate>
+</line>
+<line>
 <text>Softcam Camd OSCam_11.517 emu -r795</text>
 <comment>OE_2.0_images</comment>
 <file>enigma2-softcams-dreamosat-oscam_11.517-r1_all.ipk</file>
@@ -479,6 +488,15 @@
 <category>Softcam-Armhf</category>
 <size>14.4</size>
 <filedate>00/00/2020</filedate>
+</line>
+<line>
+<text>Softcam Camd OSCam_11.598 emu -r798</text>
+<comment>OE_2.0_images</comment>
+<file>enigma2-softcams-dreamosat-oscam_11.598-r0_all.ipk</file>
+<directory>DreamOSat_Cam</directory>
+<category>Softcam-Armhf</category>
+<size>14.4</size>
+<filedate>08/09/2020</filedate>
 </line>
 <line>
 <text>Softcam Camd OSCam_11.517 emu -r795</text>
