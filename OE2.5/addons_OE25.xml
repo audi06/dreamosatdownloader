@@ -102,6 +102,15 @@
 </line>
 <line>
 <text>OScam EMU For ALL Images</text>
+<comment>11.668 emu -r798 arm-mips</comment>
+<file>enigma2-softcams-oscam-all-images_11.668-emu-r798-arm+mips_all.deb</file>
+<directory>Softcam-All</directory>
+<category>Softcam-All</category>
+<size>14.4</size>
+<filedate>02/11/2020</filedate>
+</line>
+<line>
+<text>OScam EMU For ALL Images</text>
 <comment>11.598 emu -r798 arm-mips</comment>
 <file>enigma2-softcams-oscam-all-images_11.598-emu-r798-arm+mips_all.deb</file>
 <directory>Softcam-All</directory>
@@ -560,6 +569,15 @@
 <category>Softcam-Armhf</category>
 <size>563.6</size>
 <filedate>02/03/2018</filedate>
+</line>
+<line>
+<text>Softcam Camd OSCam_11.668 emu -r798</text>
+<comment>OE2.5</comment>
+<file>enigma2-softcams-dreamosat-oscam_11.668-r0_all.deb</file>
+<directory>DreamOSat_Cam</directory>
+<category>Softcam-Armhf</category>
+<size>14.4</size>
+<filedate>02/11/2020</filedate>
 </line>
 <line>
 <text>Softcam Camd OSCam_11.598 emu -r798</text>
