@@ -37,6 +37,15 @@
 <filedate>21/04/2019</filedate>
 </line>
 <line>
+<text>DreamOSat Script NEW version 10.02.2021</text>
+<comment>20210210-r10.04</comment>
+<file>enigma2-plugin-extensions-dreamosat-script_20210210-r10.04_all.deb</file>
+<directory>DreamOSat</directory>
+<category>DreamOSat</category>
+<size>14.4</size>
+<filedate>10/02/2021</filedate>
+</line>
+<line>
 <text>DreamOSat Script NEW version 08.08.2020</text>
 <comment>20200808-r10.03</comment>
 <file>enigma2-plugin-extensions-dreamosat-script_20200808-r10.03_all.deb</file>
