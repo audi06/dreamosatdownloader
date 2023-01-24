@@ -120,6 +120,15 @@
 </line>
 <line>
 <text>OSCam EMU For ALL Images</text>
+<comment>11.718 emu -r798 arm-mips</comment>
+<file>enigma2-softcams-oscam-all-images_11.718-emu-r798-arm+mips_all.ipk</file>
+<directory>Softcam-All</directory>
+<category>Softcam-All</category>
+<size>3.85MB</size>
+<filedate>24/01/2023</filedate>
+</line>
+<line>
+<text>OSCam EMU For ALL Images</text>
 <comment>11.711 emu -r798 arm-mips</comment>
 <file>enigma2-softcams-oscam-all-images_11.711-emu-r798-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
