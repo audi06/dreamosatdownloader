@@ -18,7 +18,7 @@
 <size>5000</size>
 <filedate>15/01/2020</filedate>
 </line>
-<!--  Softcam-ALL  -->
+<!-- Softcam-ALL cccam-all-images -->
 <line>
 <text>CCcam EMU For ALL Images</text>
 <comment>2.3.2-r3 - arm-mips</comment>
@@ -37,14 +37,15 @@
 <size>563.6</size>
 <filedate>12/05/2018</filedate>
 </line>
+<!-- Softcam-ALL oscam-all-images -->
 <line>
 <text>OSCam EMU For ALL Images</text>
 <comment>11.718 emu -r798 arm-mips</comment>
 <file>enigma2-softcams-oscam-all-images_11.718-emu-r798-arm+mips_all.deb</file>
 <directory>Softcam-All</directory>
 <category>Softcam-All</category>
-<size>2.42MB</size>
-<filedate>27/12/2022</filedate>
+<size>3.84MB</size>
+<filedate>24/01/2023</filedate>
 </line>
 <line>
 <text>OSCam EMU For ALL Images</text>
@@ -62,34 +63,7 @@
 <directory>Softcam-All</directory>
 <category>Softcam-All</category>
 <size>1.75MB</size>
-<filedate>23/10/2022</filedate>
-</line>
-<line>
-<text>OSCam EMU For ALL Images</text>
-<comment>11.718 emu -r798 arm-mips</comment>
-<file>enigma2-softcams-oscam-all-images_11.718-emu-r798-arm+mips_all.deb</file>
-<directory>Softcam-All</directory>
-<category>Softcam-All</category>
-<size>3.84MB</size>
-<filedate>24/01/2023</filedate>
-</line>
-<line>
-<text>OSCam EMU For ALL Images</text>
-<comment>11.715 emu -r798 arm-mips</comment>
-<file>enigma2-softcams-oscam-all-images_11.715-emu-r798-arm+mips_all.deb</file>
-<directory>Softcam-All</directory>
-<category>Softcam-All</category>
-<size>1.75MB</size>
 <filedate>22/10/2022</filedate>
-</line>
-<line>
-<text>OSCam EMU For ALL Images</text>
-<comment>11.714 emu -r798 arm-mips</comment>
-<file>enigma2-softcams-oscam-all-images_11.714-emu-r798-arm+mips_all.deb</file>
-<directory>Softcam-All</directory>
-<category>Softcam-All</category>
-<size>1.75MB</size>
-<filedate>16/10/2022</filedate>
 </line>
 <line>
 <text>OSCam EMU For ALL Images</text>
