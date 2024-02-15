@@ -290,6 +290,16 @@
 <size>563.6</size>
 <filedate>27/09/2018</filedate>
 </line>
+<!-- Softcam-ALL ncam-all-images -->
+<line>
+<text>NCam-Official EMU For ALL Images</text>
+<comment>69-r4 arm-mips</comment>
+<file>enigma2-softcams-ncam-official-all-images_69-r4-arm+mips_all.deb</file>
+<directory>Softcam-All</directory>
+<category>Softcam-All</category>
+<size>4.67MB</size>
+<filedate>15/02/2024</filedate>
+</line>
 <line>
 <text>Ncam (oficial) EMU For ALL Images</text>
 <comment>1.7-r4 - arm-mips</comment>
