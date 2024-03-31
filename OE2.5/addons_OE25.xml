@@ -40,6 +40,15 @@
 <!-- Softcam-ALL oscam-all-images -->
 <line>
 <text>OSCam EMU For ALL Images</text>
+<comment>11759 emu -r801 arm-mips</comment>
+<file>enigma2-softcams-oscam-all-images_11759-emu-r801-arm+mips_all.deb</file>
+<directory>Softcam-All</directory>
+<category>Softcam-All</category>
+<size>3.71MB</size>
+<filedate>31/03/2024</filedate>
+</line>
+<line>
+<text>OSCam EMU For ALL Images</text>
 <comment>11758 emu -r801 arm-mips</comment>
 <file>enigma2-softcams-oscam-all-images_11758-emu-r801-arm+mips_all.deb</file>
 <directory>Softcam-All</directory>
