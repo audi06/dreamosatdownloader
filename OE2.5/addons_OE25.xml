@@ -2379,6 +2379,34 @@
 <size>181.8</size>
 <filedate>17/04/2018</filedate>
 </line>
+<!--  Python-lib_Aarch64  -->
+<line>
+<text>libdvbcsa1_1.1.0+git58+c8cf667-r0.1</text>
+<comment>OE2.6</comment>
+<file>libdvbcsa1_1.1.0+git58+c8cf667-r0.1_arm64.deb</file>
+<directory>Python-lib_Aarch64</directory>
+<category>Python-lib_Aarch64</category>
+<size>20.5</size>
+<filedate>14/05/2024</filedate>
+</line>
+<line>
+<text>libdvbcsa-dev_1.1.0+git58+c8cf667-r0.1</text>
+<comment>OE2.6</comment>
+<file>libdvbcsa-dev_1.1.0+git58+c8cf667-r0.1_arm64.deb</file>
+<directory>Python-lib_Aarch64</directory>
+<category>Python-lib_Aarch64</category>
+<size>2.4</size>
+<filedate>14/05/2024</filedate>
+</line>
+<line>
+<text>libpcsclite1_1.8.13-r0.0</text>
+<comment>OE2.6</comment>
+<file>libpcsclite1_1.8.13-r0.0_arm64.deb</file>
+<directory>Python-lib_Aarch64</directory>
+<category>Python-lib_Aarch64</category>
+<size>14.4</size>
+<filedate>14/05/2024</filedate>
+</line>
 <!--  Python-lib_Mipsel  -->
 <line>
 <text>p7zip_9.20.1-r0.1</text>
