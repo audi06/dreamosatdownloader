@@ -49,6 +49,15 @@
 <!-- Softcam-ALL oscam-all-images -->
 <line>
 <text>OSCam EMU For ALL Images</text>
+<comment>11799 emu -802 arm-mips</comment>
+<file>enigma2-softcams-oscam-all-images_11799-emu-802-arm+mips_all.ipk</file>
+<directory>Softcam-All</directory>
+<category>Softcam-All</category>
+<size>4.00MB</size>
+<filedate>03/07/2024</filedate>
+</line>
+<line>
+<text>OSCam EMU For ALL Images</text>
 <comment>11791 emu -801 arm-mips</comment>
 <file>enigma2-softcams-oscam-all-images_11791-emu-801-arm+mips_all.ipk</file>
 <directory>Softcam-All</directory>
